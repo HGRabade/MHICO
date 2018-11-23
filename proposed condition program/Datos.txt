@@ -1,0 +1,4 @@
+Modelo original con el siguiente tratamiento en el modelo conjunto:
+1 Sólo un contorno móvil y zp=zt en él. 
+2 CCvsubt en contorno móvil para ec aguas someras y CCH en contorno móvil para ec subterránea. Conservación automática.
+
